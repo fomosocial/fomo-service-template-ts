@@ -1,0 +1,1 @@
+Protocol buffer files go in this directory!
